@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-This command-line application accept user actions and inputs as arguments, and store the tasks in a JSON file. The user should be able to:
+This command-line application accept user actions and inputs as arguments, and store the tasks in a JSON file.
 
 ## Features
 - Add, Update, and Delete tasks
@@ -45,5 +45,5 @@ Each task should have the following properties:
 - `createdAt`: The date and time when the task was created
 - `updatedAt`: The date and time when the task was last updated
 
-# License
+## License
 [MIT](./LICENSE)
