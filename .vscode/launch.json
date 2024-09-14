@@ -1,0 +1,61 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "add",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "add",
+                "Boy Groceries"
+            ]
+        },
+        {
+            "name": "update",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "update",
+                "1",
+                "Buy Groceries at Walmart"
+            ]
+        },
+        {
+            "name": "delete",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "delete",
+                "1",
+            ]
+        },
+        {
+            "name": "mark-in-progress",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "mark-in-progress",
+                "1",
+            ]
+        },
+        {
+            "name": "mark-done",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "mark-done",
+                "1",
+            ]
+        },
+    ]
+}
