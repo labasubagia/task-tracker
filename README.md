@@ -2,6 +2,8 @@
 
 This command-line application accept user actions and inputs as arguments, and store the tasks in a JSON file.
 
+This project is solution of [task tracker](https://roadmap.sh/projects/task-tracker) from [roadmap.sh](https://roadmap.sh)
+
 ## Features
 - Add, Update, and Delete tasks
 - Mark a task as in progress or done
